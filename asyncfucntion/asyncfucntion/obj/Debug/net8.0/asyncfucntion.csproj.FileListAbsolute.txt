@@ -1,0 +1,14 @@
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\bin\Debug\net8.0\asyncfucntion.exe
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\bin\Debug\net8.0\asyncfucntion.deps.json
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\bin\Debug\net8.0\asyncfucntion.runtimeconfig.json
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\bin\Debug\net8.0\asyncfucntion.dll
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\bin\Debug\net8.0\asyncfucntion.pdb
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\asyncfucntion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\asyncfucntion.AssemblyInfoInputs.cache
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\asyncfucntion.AssemblyInfo.cs
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\asyncfucntion.csproj.CoreCompileInputs.cache
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\asyncfucntion.dll
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\refint\asyncfucntion.dll
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\asyncfucntion.pdb
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\asyncfucntion.genruntimeconfig.cache
+C:\Users\ROHIT\source\repos\asyncfucntion\asyncfucntion\obj\Debug\net8.0\ref\asyncfucntion.dll
